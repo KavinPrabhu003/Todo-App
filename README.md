@@ -35,10 +35,9 @@ The purpose of this Todo app is to help users efficiently organize, track, and m
 
 Add your app screenshots here to showcase the UI
 
-## Demo Video (Example)
+## Demo Video 
 
-
-
+https://github.com/user-attachments/assets/526f47a4-aba0-43af-a9b1-14292956546c
 
 ## 📱 Features in Detail
 
