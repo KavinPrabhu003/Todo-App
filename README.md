@@ -10,7 +10,7 @@
 6. **CSS Modules** - Modular and maintainable styling
 
 ## 🎯 Purpose
-
+### This project is a part of a hackathon run by https://www.katomaran.com
 The purpose of this Todo app is to help users efficiently organize, track, and manage their daily tasks with ease. It enhances productivity through real-time updates, reminders, and a user-friendly interface.
 
 ## ✨ Key Features
